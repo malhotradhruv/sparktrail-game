@@ -1,0 +1,28 @@
+# SparkTrail: Photon Odyssey - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core dependencies (all scripts use only standard library)
+# The following are optional for enhanced features:
+
+# Image processing for challenge inputs
+Pillow>=10.0.0
+
+# Audio processing for WAV challenges
+# numpy>=1.24.0
+# scipy>=1.10.0
+
+# Visualization and plotting
+# matplotlib>=3.7.0
+
+# Web server for local hosting
+# Flask>=2.3.0
+
+# CTFd integration
+# ctfd-client>=1.0.0
+
+# Note: The core SparkTrail scripts (final_boss.py, test_suite.py, 
+# full_game_test.py, game_flow.py, leaderboard.py, etc.) use only
+# Python standard library and work without any external dependencies.
+# Optional dependencies above enhance specific features.
+
+# For minimal setup, only Pillow is recommended for image handling.

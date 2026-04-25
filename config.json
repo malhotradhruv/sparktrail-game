@@ -1,0 +1,104 @@
+{
+  "game_title": "SparkTrail: Photon Odyssey",
+  "author": "SparkTrail Organizers",
+  "storyline": "A photon emitted from the last stable source must traverse eleven corrupted photonics chambers. Players recover partial flags and Roman numerals, then assemble them in the final boss to reveal the complete Odyssey signal.",
+  "flag_format": "SPARK{...}",
+  "challenge_count": 11,
+  "scoring_system": {
+    "Easy": 100,
+    "Medium": [250, 300, 350, 400],
+    "Hard": 500,
+    "Final Boss": 1000
+  },
+  "challenges": [
+    {
+      "id": "C1",
+      "name": "Caustic Mirror",
+      "difficulty": "Easy",
+      "points": 100,
+      "rule_reference": "R1: REFLECT",
+      "input_files": ["mirror.png"]
+    },
+    {
+      "id": "C2",
+      "name": "Glass Slab",
+      "difficulty": "Easy",
+      "points": 100,
+      "rule_reference": "R2: DEFLECT",
+      "input_files": ["slab.csv"]
+    },
+    {
+      "id": "C3",
+      "name": "Polarizer Stack",
+      "difficulty": "Medium",
+      "points": 250,
+      "rule_reference": "R3: MERGE",
+      "input_files": ["polarizer.txt"]
+    },
+    {
+      "id": "C4",
+      "name": "Prism Array",
+      "difficulty": "Medium",
+      "points": 300,
+      "rule_reference": "R4: RETRACE",
+      "input_files": ["prism.png"]
+    },
+    {
+      "id": "C5",
+      "name": "Double Slit",
+      "difficulty": "Medium",
+      "points": 350,
+      "rule_reference": "R5: INTERFERE",
+      "input_files": ["slit.wav", "slit.png"]
+    },
+    {
+      "id": "C6",
+      "name": "Grating Order",
+      "difficulty": "Medium",
+      "points": 400,
+      "rule_reference": "R6: COHERENCE",
+      "input_files": ["grating.csv"]
+    },
+    {
+      "id": "C7",
+      "name": "Etalon Plate",
+      "difficulty": "Hard",
+      "points": 500,
+      "rule_reference": "R7: RETRACE",
+      "input_files": ["etalon.txt"]
+    },
+    {
+      "id": "C8",
+      "name": "Waveguide Bounce",
+      "difficulty": "Hard",
+      "points": 500,
+      "rule_reference": "R8: INTERFERE",
+      "input_files": ["bounce_map.csv", "phase_shift.png"]
+    },
+    {
+      "id": "C9",
+      "name": "Coherent Merge",
+      "difficulty": "Hard",
+      "points": 500,
+      "rule_reference": "R9: MERGE",
+      "input_files": ["merge.wav", "merge.png"]
+    },
+    {
+      "id": "C10",
+      "name": "Coherent Source",
+      "difficulty": "Hard",
+      "points": 500,
+      "rule_reference": "R10: DEFLECT",
+      "input_files": ["source.csv"]
+    },
+    {
+      "id": "C11",
+      "name": "Photon Trail",
+      "difficulty": "Final Boss",
+      "points": 1000,
+      "rule_reference": "ALL: REFLECT -> DEFLECT -> MERGE -> RETRACE -> INTERFERE -> COHERENCE",
+      "input_files": ["partial_flags_C1-C10", "master_key.png"]
+    }
+  ],
+  "rulebook": "docs/rulebook.md"
+}

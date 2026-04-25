@@ -1,0 +1,175 @@
+{
+  "players": {
+    "player_alpha": {
+      "solved_challenges": [
+        "C1",
+        "C2"
+      ],
+      "partials": {
+        "C1": {
+          "partial_flag": "SPARK{REFLECT}",
+          "roman_numeral": "I",
+          "recorded_at": "2026-04-25T05:10:22.022628+00:00"
+        },
+        "C2": {
+          "partial_flag": "SPARK{REFRACT}",
+          "roman_numeral": "II",
+          "recorded_at": "2026-04-25T05:10:22.024986+00:00"
+        }
+      },
+      "score": 200,
+      "updated_at": "2026-04-25T05:10:22.025006+00:00"
+    },
+    "runner_demo": {
+      "solved_challenges": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C7",
+        "C8",
+        "C9",
+        "C10",
+        "C11"
+      ],
+      "partials": {
+        "C1": {
+          "partial_flag": "SPARK{REFLECT}",
+          "roman_numeral": "I",
+          "recorded_at": "2026-04-25T05:11:54.263220+00:00"
+        },
+        "C2": {
+          "partial_flag": "SPARK{REFRACT}",
+          "roman_numeral": "II",
+          "recorded_at": "2026-04-25T05:11:54.264466+00:00"
+        },
+        "C3": {
+          "partial_flag": "SPARK{FILTER}",
+          "roman_numeral": "III",
+          "recorded_at": "2026-04-25T05:11:54.267836+00:00"
+        },
+        "C4": {
+          "partial_flag": "SPARK{SPLIT}",
+          "roman_numeral": "IV",
+          "recorded_at": "2026-04-25T05:11:54.269442+00:00"
+        },
+        "C5": {
+          "partial_flag": "SPARK{FRINGEOK}",
+          "roman_numeral": "V",
+          "recorded_at": "2026-04-25T05:11:54.271256+00:00"
+        },
+        "C6": {
+          "partial_flag": "SPARK{ORDER}",
+          "roman_numeral": "VI",
+          "recorded_at": "2026-04-25T05:11:54.273079+00:00"
+        },
+        "C7": {
+          "partial_flag": "SPARK{LOOP}",
+          "roman_numeral": "VII",
+          "recorded_at": "2026-04-25T05:11:54.274823+00:00"
+        },
+        "C8": {
+          "partial_flag": "SPARK{PRISM}",
+          "roman_numeral": "VIII",
+          "recorded_at": "2026-04-25T05:11:54.276622+00:00"
+        },
+        "C9": {
+          "partial_flag": "SPARK{MERGE}",
+          "roman_numeral": "IX",
+          "recorded_at": "2026-04-25T05:11:54.278484+00:00"
+        },
+        "C10": {
+          "partial_flag": "SPARK{SOURCE}",
+          "roman_numeral": "X",
+          "recorded_at": "2026-04-25T05:11:54.280197+00:00"
+        },
+        "C11": {
+          "partial_flag": "SPARK{PHOTON_ODYSSEY_COMPLETE}",
+          "roman_numeral": "XI",
+          "recorded_at": "2026-04-25T05:11:54.282601+00:00"
+        }
+      },
+      "score": 4500,
+      "updated_at": "2026-04-25T05:18:51.122216+00:00",
+      "hint_penalty": 100,
+      "adjusted_score": 4400
+    },
+    "player_one": {
+      "solved_challenges": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C7",
+        "C8",
+        "C9",
+        "C10",
+        "C11"
+      ],
+      "partials": {
+        "C1": {
+          "partial_flag": "SPARK{REFLECT}",
+          "roman_numeral": "I",
+          "recorded_at": "2026-04-25T05:44:27.438054+00:00"
+        },
+        "C2": {
+          "partial_flag": "SPARK{REFRACT}",
+          "roman_numeral": "II",
+          "recorded_at": "2026-04-25T05:44:27.942329+00:00"
+        },
+        "C3": {
+          "partial_flag": "SPARK{FILTER}",
+          "roman_numeral": "III",
+          "recorded_at": "2026-04-25T05:44:28.446262+00:00"
+        },
+        "C4": {
+          "partial_flag": "SPARK{SPLIT}",
+          "roman_numeral": "IV",
+          "recorded_at": "2026-04-25T05:44:28.950188+00:00"
+        },
+        "C5": {
+          "partial_flag": "SPARK{FRINGEOK}",
+          "roman_numeral": "V",
+          "recorded_at": "2026-04-25T05:44:29.453997+00:00"
+        },
+        "C6": {
+          "partial_flag": "SPARK{ORDER}",
+          "roman_numeral": "VI",
+          "recorded_at": "2026-04-25T05:44:29.958293+00:00"
+        },
+        "C7": {
+          "partial_flag": "SPARK{LOOP}",
+          "roman_numeral": "VII",
+          "recorded_at": "2026-04-25T05:44:30.461683+00:00"
+        },
+        "C8": {
+          "partial_flag": "SPARK{PRISM}",
+          "roman_numeral": "VIII",
+          "recorded_at": "2026-04-25T05:44:30.965490+00:00"
+        },
+        "C9": {
+          "partial_flag": "SPARK{MERGE}",
+          "roman_numeral": "IX",
+          "recorded_at": "2026-04-25T05:44:31.469097+00:00"
+        },
+        "C10": {
+          "partial_flag": "SPARK{SOURCE}",
+          "roman_numeral": "X",
+          "recorded_at": "2026-04-25T05:44:31.973389+00:00"
+        },
+        "C11": {
+          "partial_flag": "SPARK{PHOTON_ODYSSEY_COMPLETE}",
+          "roman_numeral": "XI",
+          "recorded_at": "2026-04-25T05:44:32.477935+00:00"
+        }
+      },
+      "score": 4500,
+      "updated_at": "2026-04-25T05:44:32.477949+00:00"
+    }
+  },
+  "updated_at": "2026-04-25T05:44:32.477951+00:00"
+}

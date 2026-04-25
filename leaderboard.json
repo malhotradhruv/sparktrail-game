@@ -1,0 +1,139 @@
+{
+  "generated_at": "2026-04-25T06:22:58.892622+00:00",
+  "points_policy": {
+    "Easy": 100,
+    "Medium": "250-400",
+    "Hard": 500,
+    "Final Boss": 1000
+  },
+  "challenge_points": {
+    "C1": {
+      "difficulty": "Easy",
+      "points": 100
+    },
+    "C2": {
+      "difficulty": "Easy",
+      "points": 100
+    },
+    "C3": {
+      "difficulty": "Medium",
+      "points": 250
+    },
+    "C4": {
+      "difficulty": "Medium",
+      "points": 300
+    },
+    "C5": {
+      "difficulty": "Medium",
+      "points": 350
+    },
+    "C6": {
+      "difficulty": "Medium",
+      "points": 400
+    },
+    "C7": {
+      "difficulty": "Hard",
+      "points": 500
+    },
+    "C8": {
+      "difficulty": "Hard",
+      "points": 500
+    },
+    "C9": {
+      "difficulty": "Hard",
+      "points": 500
+    },
+    "C10": {
+      "difficulty": "Hard",
+      "points": 500
+    },
+    "C11": {
+      "difficulty": "Final Boss",
+      "points": 1000
+    }
+  },
+  "total_players": 3,
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "player_one",
+      "score": 4500,
+      "solved_count": 11,
+      "progress_percent": 100.0,
+      "solved_challenges": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C7",
+        "C8",
+        "C9",
+        "C10",
+        "C11"
+      ],
+      "flags_collected": [
+        "SPARK{REFLECT}",
+        "SPARK{REFRACT}",
+        "SPARK{FILTER}",
+        "SPARK{SPLIT}",
+        "SPARK{FRINGEOK}",
+        "SPARK{ORDER}",
+        "SPARK{LOOP}",
+        "SPARK{PRISM}",
+        "SPARK{MERGE}",
+        "SPARK{SOURCE}",
+        "SPARK{PHOTON_ODYSSEY_COMPLETE}"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "runner_demo",
+      "score": 4500,
+      "solved_count": 11,
+      "progress_percent": 100.0,
+      "solved_challenges": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C7",
+        "C8",
+        "C9",
+        "C10",
+        "C11"
+      ],
+      "flags_collected": [
+        "SPARK{REFLECT}",
+        "SPARK{REFRACT}",
+        "SPARK{FILTER}",
+        "SPARK{SPLIT}",
+        "SPARK{FRINGEOK}",
+        "SPARK{ORDER}",
+        "SPARK{LOOP}",
+        "SPARK{PRISM}",
+        "SPARK{MERGE}",
+        "SPARK{SOURCE}",
+        "SPARK{PHOTON_ODYSSEY_COMPLETE}"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "player_alpha",
+      "score": 200,
+      "solved_count": 2,
+      "progress_percent": 18.18,
+      "solved_challenges": [
+        "C1",
+        "C2"
+      ],
+      "flags_collected": [
+        "SPARK{REFLECT}",
+        "SPARK{REFRACT}"
+      ]
+    }
+  ]
+}
